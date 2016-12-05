@@ -1,0 +1,46 @@
+body
+{
+background-color:#000000;
+color:#c3a1db;
+
+}
+ul
+{
+    list-style: none;
+    padding: 0;
+}
+.container{
+    margin:0 auto;
+    width:25%;
+}
+.qty
+{
+    float: left;
+  color:white;
+     margin-right: 53px;
+}
+
+h1 {
+    color: white;
+    font-size: 45px;
+}
+li {
+    font-size: 23px;
+    margin:4% 0 0;
+}
+.amt
+{
+    color:white;
+    float: left;
+    font-size: 23px;
+    margin-right: 53px;
+}
+.tot
+{
+    font-size: 23px;
+}
+
+hr {
+    margin: 9% 0 0;
+    width: 220px;
+}
